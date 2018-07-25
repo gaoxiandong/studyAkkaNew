@@ -1,0 +1,61 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/src/main/scala/com/example/ApplicationMain.scala, /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/src/main/scala/com/example/ScalaAgentExample.scala, /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/src/main/java/com/example/JavaAgentExample.java)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/src/main/scala/com/example/ApplicationMain.scala, /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/src/main/scala/com/example/ScalaAgentExample.scala, /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/src/main/java/com/example/JavaAgentExample.java)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/src/main/scala/com/example/ApplicationMain.scala, /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/src/main/scala/com/example/ScalaAgentExample.scala, /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/src/main/java/com/example/JavaAgentExample.java)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 3 sources: invalidated sources (3) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 2 Scala sources and 1 Java source to /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.6[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.6[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 37654672, interfacing (CompilerInterface) with Scala compiler version 2.11.6[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/classes:/Users/gaoxd/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/target/scala-2.11/classes:/Users/gaoxd/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.11.jar:/Users/gaoxd/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar:/Users/gaoxd/.ivy2/cache/com.typesafe.akka/akka-agent_2.11/jars/akka-agent_2.11-2.3.11.jar:/Users/gaoxd/.ivy2/cache/org.scala-stm/scala-stm_2.11/jars/scala-stm_2.11-0.7.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 4.654675458 s[0m
+[0m[[0mdebug[0m] [0mAttempting to call com.sun.tools.javac.api.JavacTool@694b2bf8 directly...[0m
+[0m[[0mdebug[0m] [0mJava compilation took 0.926737607 s[0m
+[0m[[0mdebug[0m] [0mJava analysis took 0.056802 s[0m
+[0m[[0mdebug[0m] [0mJava compile + analysis took 0.989431832 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/src/main/scala/com/example/ApplicationMain.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/src/main/scala/com/example/ApplicationMain.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/src/main/scala/com/example/ApplicationMain.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/src/main/scala/com/example/ApplicationMain.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/src/main/scala/com/example/ApplicationMain.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, $asInstanceOf, equals, asInstanceOf, executionStart, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, ApplicationMain, clone, toString, args, !=, getClass, ne, eq, delayedInit, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/src/main/scala/com/example/ScalaAgentExample.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/src/main/scala/com/example/ScalaAgentExample.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/src/main/scala/com/example/ScalaAgentExample.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/src/main/scala/com/example/ScalaAgentExample.scala)[0m
+[0m[[0mdebug[0m] [0mThe /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/src/main/scala/com/example/ScalaAgentExample.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m	ec.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following member ref dependencies of /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/src/main/scala/com/example/ScalaAgentExample.scala are invalidated:[0m
+[0m[[0mdebug[0m] [0m	/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/src/main/scala/com/example/ApplicationMain.scala[0m
+[0m[[0mdebug[0m] [0mInvalidating /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/src/main/java/com/example/JavaAgentExample.java...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/src/main/java/com/example/JavaAgentExample.java...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/src/main/java/com/example/JavaAgentExample.java)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/src/main/java/com/example/JavaAgentExample.java)[0m
+[0m[[0mdebug[0m] [0mThe /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/src/main/java/com/example/JavaAgentExample.java source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, wait, equals, JavaAgentExample, notifyAll, <init>, apply, toString, getClass, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/src/main/scala/com/example/ApplicationMain.scala: Set(JavaAgentExample, <init>, apply)[0m
+[0m[[0mdebug[0m] [0mName hashing optimization doesn't apply to non-Scala dependency: /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-agent/src/main/java/com/example/JavaAgentExample.java[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

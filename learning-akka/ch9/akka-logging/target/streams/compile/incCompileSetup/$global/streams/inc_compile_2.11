@@ -1,0 +1,258 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+14 items
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes/com/example/ApplicationMain$.class
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes/com/example/ApplicationMain$delayedInit$body.class
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes/com/example/ApplicationMain.class
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes/com/example/LoggingActor$$anonfun$receive$1.class
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes/com/example/LoggingActor$.class
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes/com/example/LoggingActor$Initialize$.class
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes/com/example/LoggingActor$PingMessage$.class
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes/com/example/LoggingActor$PingMessage.class
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes/com/example/LoggingActor.class
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes/com/example/PongActor$$anonfun$receive$1.class
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes/com/example/PongActor$.class
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes/com/example/PongActor$PongMessage$.class
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes/com/example/PongActor$PongMessage.class
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes/com/example/PongActor.class
+binary dependencies:
+9 items
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> /Users/gaoxd/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.11.jar
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> /Users/gaoxd/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> /Users/gaoxd/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.11.jar
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> /Users/gaoxd/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> /Users/gaoxd/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.11.jar
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> /Users/gaoxd/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+14 items
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> com.example.ApplicationMain
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> com.example.ApplicationMain$
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> com.example.ApplicationMain$delayedInit$body
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> com.example.LoggingActor
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> com.example.LoggingActor$
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> com.example.LoggingActor$$anonfun$receive$1
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> com.example.LoggingActor$Initialize$
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> com.example.LoggingActor$PingMessage
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> com.example.LoggingActor$PingMessage$
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> com.example.PongActor
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> com.example.PongActor$
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> com.example.PongActor$$anonfun$receive$1
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> com.example.PongActor$PongMessage
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> com.example.PongActor$PongMessage$
+used names:
+122 items
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> !
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> <init>
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> ActorSystem
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> App
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> ApplicationMain
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> LoggingActor
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> actor
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> actorOf
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> actorRef2Scala
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> akka
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> apply
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> com
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> example
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> package
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> pingActor
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> props
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> qual$1
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> qual$2
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> qual$3
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> scala
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> shutdown
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> system
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> x$1
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> x$2
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> x$3
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> x$4
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> x$5
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> x$6
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> &&
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> <init>
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> ==
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> A1
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> AbstractFunction1
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> Actor
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> ActorLogging
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> AnyRef
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> B1
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> ClassTag
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> Function1
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> Initialize
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> LoggingActor
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> None
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> PingMessage
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> PongActor
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> Predef
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> Product
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> Props
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> ScalaRunTime
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> Serializable
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> String
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> _hashCode
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> _toString
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> actor
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> actorOf
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> akka
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> apply
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> asInstanceOf
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> com
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> context
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> counter
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> eq
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> example
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> info
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> isInstanceOf
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> log
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> materializeClassTag
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> package
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> pongActor
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> props
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> runtime
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> scala
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> text
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> toString
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> typedProductIterator
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> unchecked
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> ||
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> !
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> &&
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> <init>
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> ==
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> A1
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> AbstractFunction1
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> Actor
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> ActorLogging
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> AnyRef
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> B1
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> ClassTag
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> Function1
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> None
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> PongActor
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> PongMessage
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> Predef
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> Product
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> Props
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> ScalaRunTime
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> Serializable
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> String
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> _hashCode
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> _toString
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> actor
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> actorRef2Scala
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> akka
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> apply
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> asInstanceOf
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> com
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> eq
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> example
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> info
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> isInstanceOf
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> log
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> materializeClassTag
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> package
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> props
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> runtime
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> scala
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> self
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> sender
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> text
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> toString
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> typedProductIterator
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> unchecked
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> ||
+product stamps:
+14 items
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes/com/example/ApplicationMain$.class -> lastModified(1531882722000)
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes/com/example/ApplicationMain$delayedInit$body.class -> lastModified(1531882722000)
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes/com/example/ApplicationMain.class -> lastModified(1531882722000)
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes/com/example/LoggingActor$$anonfun$receive$1.class -> lastModified(1531882722000)
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes/com/example/LoggingActor$.class -> lastModified(1531882722000)
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes/com/example/LoggingActor$Initialize$.class -> lastModified(1531882722000)
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes/com/example/LoggingActor$PingMessage$.class -> lastModified(1531882722000)
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes/com/example/LoggingActor$PingMessage.class -> lastModified(1531882722000)
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes/com/example/LoggingActor.class -> lastModified(1531882722000)
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes/com/example/PongActor$$anonfun$receive$1.class -> lastModified(1531882722000)
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes/com/example/PongActor$.class -> lastModified(1531882722000)
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes/com/example/PongActor$PongMessage$.class -> lastModified(1531882722000)
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes/com/example/PongActor$PongMessage.class -> lastModified(1531882722000)
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes/com/example/PongActor.class -> lastModified(1531882722000)
+source stamps:
+3 items
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> hash(3cfe827a90ad4138b45697d49e0bb68e2decaef5)
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> hash(036ca16307014d0a1d25cdd2acea466e5da6f4c0)
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> hash(885c5d1880f2ae6b1a2dbfc50331299f97e80e18)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1444172124000)
+/Users/gaoxd/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.11.jar -> lastModified(1468982519000)
+/Users/gaoxd/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> lastModified(1468982523000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/gaoxd/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.11.jar -> akka.actor.ActorLogging
+/Users/gaoxd/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> scala.Serializable
+internal apis:
+3 items
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAiRjXhAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJyj7id0AAZub3RpZnlzcQB+AAy7Lrh2dAAEd2FpdHNxAH4ADERyjFp0AA0kYXNJbnN0YW5jZU9mc3EAfgAMyxd4N3QABnN5c3RlbXNxAH4ADP2PMqR0AAZlcXVhbHNzcQB+AAwGRSrzdAAMYXNJbnN0YW5jZU9mc3EAfgAMeSd9InQADmV4ZWN1dGlvblN0YXJ0c3EAfgAMoDdb6XQADHN5bmNocm9uaXplZHNxAH4ADFJadq90AA0kaXNJbnN0YW5jZU9mc3EAfgAM7xQLYXQABG1haW5zcQB+AAzUISuodAAJbm90aWZ5QWxsc3EAfgAMZVUlynQADGlzSW5zdGFuY2VPZnNxAH4ADMfquQ10AAI9PXNxAH4ADOMeVr50AA9BcHBsaWNhdGlvbk1haW5zcQB+AAxhfWXBdAAFY2xvbmVzcQB+AAw4wqfHdAAIdG9TdHJpbmdzcQB+AAxryeymdAAEYXJnc3NxAH4ADMxy+Gh0AAIhPXNxAH4ADCyjYZN0AAhnZXRDbGFzc3NxAH4ADJdfvtR0AAJuZXNxAH4ADLhYoMJ0AAlwaW5nQWN0b3JzcQB+AAwHhArUdAACZXFzcQB+AAzaKTakdAALZGVsYXllZEluaXRzcQB+AAw8wRE1dAACIyNzcQB+AAxwngIOdAAIZmluYWxpemVzcQB+AAxLNx2UdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBLeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAbY29tLmV4YW1wbGUuQXBwbGljYXRpb25NYWludXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAEHNjYWxhLmRlcHJlY2F0ZWR0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AZnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZQBwc3EAfgBqc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEtMAAlpbmhlcml0ZWRxAH4AS0wAB3BhcmVudHNxAH4AS3hxAH4AbnNxAH4AZQBwc3EAfgBqdXEAfgBGAAAAAHNxAH4AZQBwc3EAfgBqdXEAfgBGAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBMcQB+AFV1cQB+AFYAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgB7eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AG10ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AbXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AlXNxAH4AWABxAH4AIXVxAH4AWwAAAABzcQB+AIh0AARVbml0cQB+AI51cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB7eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBedAAFUGxhaW5xAH4AL3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AiVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AbXNxAH4AiHQABUFycmF5cQB+AI51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AiHQABlN0cmluZ3NxAH4AjHNxAH4Aj3VxAH4AkgAAAANzcQB+AJR0AARqYXZhc3EAfgCUdAAEbGFuZ3EAfgCZc3EAfgBlAHBzcQB+AGp1cQB+ALAAAAAEc3EAfgCIdAADQXBwcQB+AI5zcQB+AIh0AAtEZWxheWVkSW5pdHEAfgCOc3EAfgCIdAAGT2JqZWN0cQB+ALRzcQB+AIh0AANBbnlxAH4AjnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAC2NvbS5leGFtcGxlc3EAfgDIdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFkq1M8iXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFcvVXNlcnMvZ2FveGQvR2l0Q29kZS9ha2thU3R1ZHkvbGVhcm5pbmctYWtrYS9jaDkvYWtrYS1sb2dnaW5nL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQ8/oJ6kK1BOLRWl9SeC7aOLeyu9Q==
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCyzEjHAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwcJ672HQABHNlbGZzcQB+AAtiFtPEdAAHY29udGV4dHVxAH4ACQAAADZzcQB+AAtvzotJdAAGbm90aWZ5c3EAfgALrF+bsnQAB3VuYXBwbHlzcQB+AAvuidI0dAAHUmVjZWl2ZXNxAH4AC9KPxkt0AAtQaW5nTWVzc2FnZXNxAH4AC58nbqV0AAR3YWl0c3EAfgALl+GS0nQADSRhc0luc3RhbmNlT2ZzcQB+AAv7RZ7VdAAHY29tcG9zZXNxAH4AC/QRr7R0AAxwcm9kdWN0QXJpdHlzcQB+AAuu+KLRdAAGZXF1YWxzc3EAfgALGEpFM3QADGFzSW5zdGFuY2VPZnNxAH4AC7OLr4x0AAxMb2dnaW5nQWN0b3JzcQB+AAvgdUQfdAAMc3luY2hyb25pemVkc3EAfgALkfgTDXQADSRpc0luc3RhbmNlT2ZzcQB+AAvQcgZEdAAHYW5kVGhlbnNxAH4AC3oztHB0AAdyZWNlaXZlc3EAfgALDDLuZnQACnByZVJlc3RhcnRzcQB+AAuFALWmdAANYXJvdW5kUmVjZWl2ZXNxAH4AC3Luy2R0AAR0ZXh0c3EAfgALmD93CHQACGNhbkVxdWFsc3EAfgALXuDJF3QAC3Bvc3RSZXN0YXJ0c3EAfgALz6p943QACHBvc3RTdG9wc3EAfgALQYM5GHQADXByb2R1Y3RQcmVmaXhzcQB+AAsZRoG8dAAJbm90aWZ5QWxsc3EAfgALM48oNnQAC3JlYWRSZXNvbHZlc3EAfgALV7Zb/XQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALwGzE43QADGlzSW5zdGFuY2VPZnNxAH4AC/xmnc50ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALR4+mi3QADmFyb3VuZFBvc3RTdG9wc3EAfgALKJMoTHQACkluaXRpYWxpemVzcQB+AAvNdlcCdAAGPGluaXQ+c3EAfgAL9mS7IHQACHByZVN0YXJ0c3EAfgAL1rTTP3QACXVuaGFuZGxlZHNxAH4AC8W+Q1Z0AAVhcHBseXNxAH4AC1CX3hl0AAI9PXNxAH4ACy2h1sF0AAVjbG9uZXNxAH4AC7ebRXl0AARjb3B5c3EAfgAL0nsK3HQABnNlbmRlcnNxAH4AC36hN3x0AAdjb3VudGVyc3EAfgAL8jyB9XQACHRvU3RyaW5nc3EAfgALEO1IYXQAAiE9c3EAfgAL75F5hnQACGdldENsYXNzc3EAfgALADqoO3QADmNvcHkkZGVmYXVsdCQxc3EAfgAL2svYuXQABXByb3Bzc3EAfgALx+9E6XQAAm5lc3EAfgALrcmRu3QACXBvbmdBY3RvcnNxAH4AC0/WYOx0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAtdUNUOdAACZXFzcQB+AAsEK7vQdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAL5l9IPnQAA2xvZ3NxAH4AC/DnI7l0AAIjI3NxAH4AC42STFh0AAhmaW5hbGl6ZXNxAH4AC2dmTG10AA5wcm9kdWN0RWxlbWVudHNxAH4AC/vwQ550AAhoYXNoQ29kZXNxAH4AC7CasJd0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AId4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABhjb20uZXhhbXBsZS5Mb2dnaW5nQWN0b3J1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AKB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AJ8AcHNxAH4ApHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCHTAAJaW5oZXJpdGVkcQB+AIdMAAdwYXJlbnRzcQB+AId4cQB+AKhzcQB+AJ8AcHNxAH4ApHVxAH4AggAAAABzcQB+AJ8AcHNxAH4ApHVxAH4AggAAAABzcQB+AJ8AcHNxAH4ApHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAEc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ap3QADEFjdG9yTG9nZ2luZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ap3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEYWtrYXNxAH4AxHQABWFjdG9yc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AMVzcQB+ALh0AAVBY3RvcnEAfgC+c3EAfgC4dAAGT2JqZWN0c3EAfgC8c3EAfgC/dXEAfgDCAAAAA3NxAH4AxHQABGphdmFzcQB+AMR0AARsYW5ncQB+AMtzcQB+ALh0AANBbnlzcQB+ALxzcQB+AL91cQB+AMIAAAACc3EAfgDEdAAFc2NhbGFxAH4Ay3NxAH4AhHEAfgCRdXEAfgCSAAAAAHNxAH4AlAB0ABhjb20uZXhhbXBsZS5Mb2dnaW5nQWN0b3J1cQB+AJcAAAAAfnEAfgCZdAAGTW9kdWxldXEAfgCdAAAAAHNxAH4AnwBwc3EAfgCkcQB+AKlzcQB+AJ8AcHNxAH4ApHNxAH4ArHNxAH4AnwBwc3EAfgCkdXEAfgCCAAAAAHNxAH4AnwBwc3EAfgCkdXEAfgCCAAAAAHNxAH4AnwBwc3EAfgCkdXEAfgC2AAAAAnNxAH4AuHEAfgDPc3EAfgC8c3EAfgC/dXEAfgDCAAAAA3NxAH4AxHEAfgDUc3EAfgDEcQB+ANZxAH4Ay3NxAH4AuHEAfgDYc3EAfgC8c3EAfgC/dXEAfgDCAAAAAnNxAH4AxHEAfgDdcQB+AMt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAtjb20uZXhhbXBsZXNxAH4BAXQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZKtTPIl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABXL1VzZXJzL2dhb3hkL0dpdENvZGUvYWtrYVN0dWR5L2xlYXJuaW5nLWFra2EvY2g5L2Fra2EtbG9nZ2luZy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUA2yhYwcBTQodJc3SrOpGbl2m9MA=
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCROaT+AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwyJ1KInQABHNlbGZzcQB+AAuJA9BpdAAHY29udGV4dHVxAH4ACQAAADNzcQB+AAtsBzmhdAAGbm90aWZ5c3EAfgALUBjzzXQAB3VuYXBwbHlzcQB+AAsQ8PfxdAAHUmVjZWl2ZXNxAH4AC8UK9T50AAR3YWl0c3EAfgALf5i253QADSRhc0luc3RhbmNlT2ZzcQB+AAv2qnRadAAHY29tcG9zZXNxAH4AC4CJ1Xl0AAxwcm9kdWN0QXJpdHlzcQB+AAtjCTY7dAAGZXF1YWxzc3EAfgALroRyXnQAC1BvbmdNZXNzYWdlc3EAfgALEfvH3XQADGFzSW5zdGFuY2VPZnNxAH4AC87F6zV0AAxzeW5jaHJvbml6ZWRzcQB+AAs3chU8dAANJGlzSW5zdGFuY2VPZnNxAH4AC8iNhjV0AAdhbmRUaGVuc3EAfgALTx2nFXQAB3JlY2VpdmVzcQB+AAsIAZaldAAKcHJlUmVzdGFydHNxAH4ACwYs7nB0AA1hcm91bmRSZWNlaXZlc3EAfgALoM3JmnQABHRleHRzcQB+AAsLZI8kdAAIY2FuRXF1YWxzcQB+AAtnCJSpdAALcG9zdFJlc3RhcnRzcQB+AAuz1YbLdAAIcG9zdFN0b3BzcQB+AAtnTWqXdAANcHJvZHVjdFByZWZpeHNxAH4AC5Er+PZ0AAlub3RpZnlBbGxzcQB+AAuVl/AwdAALcmVhZFJlc29sdmVzcQB+AAuqCgBpdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAthDukWdAAMaXNJbnN0YW5jZU9mc3EAfgAL4Lo4QXQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAuwcsRTdAAOYXJvdW5kUG9zdFN0b3BzcQB+AAvHoRmLdAAGPGluaXQ+c3EAfgALhKPQpHQACHByZVN0YXJ0c3EAfgALJd6c6nQACXVuaGFuZGxlZHNxAH4ACw4US4V0AAVhcHBseXNxAH4AC8JKIFF0AAI9PXNxAH4AC7TWyTJ0AAVjbG9uZXNxAH4ACysFNF50AARjb3B5c3EAfgAL36WjM3QABnNlbmRlcnNxAH4AC4nH4NF0AAh0b1N0cmluZ3NxAH4AC9khYVl0AAIhPXNxAH4ACwwbw010AAhnZXRDbGFzc3NxAH4ACxVLSRZ0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC55Tadl0AAVwcm9wc3NxAH4ACyd1NMl0AAlQb25nQWN0b3JzcQB+AAs+IaRidAACbmVzcQB+AAtWzbsIdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgAL71NRZ3QAAmVxc3EAfgAL+b5b+XQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ACyWss6h0AANsb2dzcQB+AAst5AnjdAACIyNzcQB+AAvgDIY8dAAIZmluYWxpemVzcQB+AAuQfzpsdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAsVTIkcdAAIaGFzaENvZGVzcQB+AAsj++2hdAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAVY29tLmV4YW1wbGUuUG9uZ0FjdG9ydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZ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
+external apis:
+0 items
+source infos:
+3 items
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/ApplicationMain.scala -> 
+AAAAAAAAAAA=
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/LoggingActor.scala -> 
+AAAAAAAAAAA=
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/src/main/scala/com/example/PongActor.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZKtTPIl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9Vc2Vycy9nYW94ZC9HaXRDb2RlL2Fra2FTdHVkeS9sZWFybmluZy1ha2thL2NoOS9ha2thLWxvZ2dpbmcvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

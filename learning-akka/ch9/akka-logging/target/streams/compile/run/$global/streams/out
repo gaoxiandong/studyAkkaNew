@@ -1,0 +1,20 @@
+[0m[[0minfo[0m] [0mRunning com.example.ApplicationMain [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch9/akka-logging/target/scala-2.11/classes[0m
+[0m[[0mdebug[0m] [0m	/Users/gaoxd/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/gaoxd/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.11.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/gaoxd/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/gaoxd/.ivy2/cache/com.typesafe.akka/akka-slf4j_2.11/jars/akka-slf4j_2.11-2.3.11.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/gaoxd/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.5.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/gaoxd/.ivy2/cache/ch.qos.logback/logback-classic/jars/logback-classic-1.0.0.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/gaoxd/.ivy2/cache/ch.qos.logback/logback-core/jars/logback-core-1.0.0.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread MyActorSystem-scheduler-1 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread MyActorSystem-scheduler-1 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread MyActorSystem-akka.actor.default-dispatcher-2 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread MyActorSystem-akka.actor.default-dispatcher-2 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m

@@ -1,0 +1,163 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+6 items
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/target/scala-2.11/classes/com/akkademy/ArticleParseActor$$anonfun$receive$1.class
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/target/scala-2.11/classes/com/akkademy/ArticleParseActor.class
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/target/scala-2.11/classes/com/akkademy/ArticleParser$.class
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/target/scala-2.11/classes/com/akkademy/ArticleParser.class
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/target/scala-2.11/classes/com/akkademy/ParseArticle$.class
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/target/scala-2.11/classes/com/akkademy/ParseArticle.class
+binary dependencies:
+6 items
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> /Users/gaoxd/.ivy2/cache/com.syncthemall/boilerpipe/jars/boilerpipe-1.2.2.jar
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> /Users/gaoxd/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.9.jar
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> /Users/gaoxd/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> /Users/gaoxd/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> /Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+6 items
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> com.akkademy.ArticleParseActor
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> com.akkademy.ArticleParseActor$$anonfun$receive$1
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> com.akkademy.ArticleParser
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> com.akkademy.ArticleParser$
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> com.akkademy.ParseArticle
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> com.akkademy.ParseArticle$
+used names:
+59 items
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> !
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> <init>
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> A1
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> Actor
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> AnyRef
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> ArticleExtractor
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> ArticleParseActor
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> ArticleParser
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> B1
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> Function1
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> INSTANCE
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> Predef
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> Receive
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> String
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> actor
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> actorRef2Scala
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> akka
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> akkademy
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> apply
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> asInstanceOf
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> body
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> boilerpipe
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> com
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> de
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> extractors
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> getText
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> html
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> htmlString
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> isInstanceOf
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> l3s
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> package
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> scala
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> self
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> sender
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> unchecked
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> &&
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> <init>
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> ==
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> AbstractFunction1
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> None
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> ParseArticle
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> Predef
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> Product
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> ScalaRunTime
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> Serializable
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> String
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> _hashCode
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> _toString
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> akkademy
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> asInstanceOf
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> com
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> eq
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> htmlString
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> isInstanceOf
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> runtime
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> scala
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> toString
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> typedProductIterator
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> ||
+product stamps:
+6 items
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/target/scala-2.11/classes/com/akkademy/ArticleParseActor$$anonfun$receive$1.class -> lastModified(1531891968000)
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/target/scala-2.11/classes/com/akkademy/ArticleParseActor.class -> lastModified(1531891968000)
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/target/scala-2.11/classes/com/akkademy/ArticleParser$.class -> lastModified(1531891968000)
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/target/scala-2.11/classes/com/akkademy/ArticleParser.class -> lastModified(1531891968000)
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/target/scala-2.11/classes/com/akkademy/ParseArticle$.class -> lastModified(1531891968000)
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/target/scala-2.11/classes/com/akkademy/ParseArticle.class -> lastModified(1531891968000)
+source stamps:
+2 items
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> hash(71a2ade73cf92fb968e55f1b2f3564295399258c)
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> hash(2acac61650dac2aebccb0cf66d98d3758f6a0921)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1444172124000)
+/Users/gaoxd/.ivy2/cache/com.syncthemall/boilerpipe/jars/boilerpipe-1.2.2.jar -> lastModified(1392418740000)
+/Users/gaoxd/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.9.jar -> lastModified(1421734693000)
+/Users/gaoxd/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar -> lastModified(1420590720000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/gaoxd/.ivy2/cache/com.syncthemall/boilerpipe/jars/boilerpipe-1.2.2.jar -> de.l3s.boilerpipe.extractors.ExtractorBase
+/Users/gaoxd/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.9.jar -> akka.actor.Actor
+/Users/gaoxd/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar -> scala.runtime.AbstractFunction1
+internal apis:
+2 items
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBk13U0AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwpE6h/nQABHNlbGZzcQB+AAtqAhEhdAAHY29udGV4dHVxAH4ACQAAACVzcQB+AAvMNwiZdAAGbm90aWZ5c3EAfgALW+DtG3QADUFydGljbGVQYXJzZXJzcQB+AAsh9Xo2dAAHUmVjZWl2ZXNxAH4AC/Tiw5h0AAR3YWl0c3EAfgALH8d/X3QADSRhc0luc3RhbmNlT2ZzcQB+AAt3QNIZdAAGZXF1YWxzc3EAfgALbO+ViHQADGFzSW5zdGFuY2VPZnNxAH4ACyJCxoF0ABFBcnRpY2xlUGFyc2VBY3RvcnNxAH4AC4J2sN10AAxzeW5jaHJvbml6ZWRzcQB+AAuiukaFdAANJGlzSW5zdGFuY2VPZnNxAH4AC0a+FBB0AAdyZWNlaXZlc3EAfgALB/2klXQACnByZVJlc3RhcnRzcQB+AAsRrz+idAANYXJvdW5kUmVjZWl2ZXNxAH4AC9Xt1MN0AAtwb3N0UmVzdGFydHNxAH4AC+N0Vzl0AAhwb3N0U3RvcHNxAH4AC3XVi810AAlub3RpZnlBbGxzcQB+AAvzGXoQdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAvQ45gpdAAMaXNJbnN0YW5jZU9mc3EAfgALAN3s63QAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAuxNdu6dAAOYXJvdW5kUG9zdFN0b3BzcQB+AAtMEKAwdAAGPGluaXQ+c3EAfgAL6BqFl3QACHByZVN0YXJ0c3EAfgALPSGqOHQACXVuaGFuZGxlZHNxAH4ACxP0Y0F0AAVhcHBseXNxAH4AC7YykNV0AAI9PXNxAH4AC+Z95f50AAVjbG9uZXNxAH4ACxIH5cV0AAZzZW5kZXJzcQB+AAtJAaPqdAAIdG9TdHJpbmdzcQB+AAvtJ32adAACIT1zcQB+AAvGjnQ0dAAIZ2V0Q2xhc3NzcQB+AAu/aoQzdAACbmVzcQB+AAtqY+K2dAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALY5mnhHQAAmVxc3EAfgALRCJ4tXQAAiMjc3EAfgALhn7DqnQACGZpbmFsaXplc3EAfgALdWvuq3QACGhhc2hDb2Rlc3EAfgAL/xgPl3QADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AZXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAHmNvbS5ha2thZGVteS5BcnRpY2xlUGFyc2VBY3RvcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Afnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AfQBwc3EAfgCCc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGVMAAlpbmhlcml0ZWRxAH4AZUwAB3BhcmVudHNxAH4AZXhxAH4AhnNxAH4AfQBwc3EAfgCCdXEAfgBgAAAAAHNxAH4AfQBwc3EAfgCCdXEAfgBgAAAAAHNxAH4AfQBwc3EAfgCCdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCFdAAFQWN0b3JzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AKJ0AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCjc3EAfgCWdAAGT2JqZWN0c3EAfgCac3EAfgCddXEAfgCgAAAAA3NxAH4AonQABGphdmFzcQB+AKJ0AARsYW5ncQB+AKlzcQB+AJZ0AANBbnlzcQB+AJpzcQB+AJ11cQB+AKAAAAACc3EAfgCidAAFc2NhbGFxAH4AqXNxAH4AYnEAfgBvdXEAfgBwAAAAAHNxAH4AcgB0ABpjb20uYWtrYWRlbXkuQXJ0aWNsZVBhcnNlcnVxAH4AdQAAAAB+cQB+AHd0AAZNb2R1bGV1cQB+AHsAAAAAc3EAfgB9AHBzcQB+AIJxAH4Ah3NxAH4AfQBwc3EAfgCCc3EAfgCKc3EAfgB9AHBzcQB+AIJ1cQB+AGAAAAAAc3EAfgB9AHBzcQB+AIJ1cQB+AGAAAAAAc3EAfgB9AHBzcQB+AIJ1cQB+AJQAAAACc3EAfgCWcQB+AKtzcQB+AJpzcQB+AJ11cQB+AKAAAAADc3EAfgCicQB+ALBzcQB+AKJxAH4AsnEAfgCpc3EAfgCWcQB+ALRzcQB+AJpzcQB+AJ11cQB+AKAAAAACc3EAfgCicQB+ALlxAH4AqXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQADGNvbS5ha2thZGVteXNxAH4A3XQAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZKvgQTp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABbL1VzZXJzL2dhb3hkL0dpdENvZGUvYWtrYVN0dWR5L2xlYXJuaW5nLWFra2EvY2g1L2Fra2FkZW1haWQtc2NhbGEvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFHGirec8+S+5aOVfGy81ZClTmSWM
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB2/55+AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cI/xcHh0AAZub3RpZnlzcQB+AAwpL0R4dAAEd2FpdHNxAH4ADIMKBxB0AA0kYXNJbnN0YW5jZU9mc3EAfgAM8T4jYXQADHByb2R1Y3RBcml0eXNxAH4ADBR48m50AAZlcXVhbHNzcQB+AAz5D5MadAAMYXNJbnN0YW5jZU9mc3EAfgAMhZU53XQADHN5bmNocm9uaXplZHNxAH4ADPImTER0AApodG1sU3RyaW5nc3EAfgAMQQ9qOHQADSRpc0luc3RhbmNlT2ZzcQB+AAyK8rvedAAIY2FuRXF1YWxzcQB+AAxKzVZtdAANcHJvZHVjdFByZWZpeHNxAH4ADLsMF950AAlub3RpZnlBbGxzcQB+AAwoVBbVdAAMaXNJbnN0YW5jZU9mc3EAfgAM+PLia3QABjxpbml0PnNxAH4ADPPDRyJ0AAxQYXJzZUFydGljbGVzcQB+AAxrPLBUdAACPT1zcQB+AAypP1hfdAAFY2xvbmVzcQB+AAyBb7yFdAAEY29weXNxAH4ADCsVGsp0AAh0b1N0cmluZ3NxAH4ADOvtxit0AAIhPXNxAH4ADOR3NBV0AAhnZXRDbGFzc3NxAH4ADA8J9lh0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADNqQpml0AAJuZXNxAH4ADOZ5UDx0AAJlcXNxAH4ADHYUkKp0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAw0zNXsdAACIyNzcQB+AAxOi6+fdAAIZmluYWxpemVzcQB+AAztgA1UdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAz8lRtFdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBReHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAZY29tLmFra2FkZW15LlBhcnNlQXJ0aWNsZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Aanhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AaQBwc3EAfgBuc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFFMAAlpbmhlcml0ZWRxAH4AUUwAB3BhcmVudHNxAH4AUXhxAH4AcnNxAH4AaQBwc3EAfgBudXEAfgBMAAAAAHNxAH4AaQBwc3EAfgBudXEAfgBMAAAAAHNxAH4AaQBwc3EAfgBudXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBxdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBxc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCPc3EAfgCCcQB+AIVzcQB+AIZzcQB+AIl1cQB+AIwAAAADc3EAfgCOdAAEamF2YXNxAH4AjnQAAmlvcQB+AJNzcQB+AIJ0AAdQcm9kdWN0cQB+AIhzcQB+AIJ0AAZFcXVhbHNxAH4AiHNxAH4AgnQABk9iamVjdHNxAH4AhnNxAH4AiXVxAH4AjAAAAANzcQB+AI5xAH4AmXNxAH4AjnQABGxhbmdxAH4Ak3NxAH4AgnQAA0FueXEAfgCIdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAMY29tLmFra2FkZW15c3EAfgCsdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFkq+BBOnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFsvVXNlcnMvZ2FveGQvR2l0Q29kZS9ha2thU3R1ZHkvbGVhcm5pbmctYWtrYS9jaDUvYWtrYWRlbWFpZC1zY2FsYS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUKsrGFlDawq68ywz2bZjTdY9qCSE=
+external apis:
+0 items
+source infos:
+2 items
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/ArticleParseActor.scala -> 
+AAAAAAAAAAA=
+/Users/gaoxd/GitCode/akkaStudy/learning-akka/ch5/akkademaid-scala/src/main/scala/com/akkademy/Messages.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZKvgQTp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWy9Vc2Vycy9nYW94ZC9HaXRDb2RlL2Fra2FTdHVkeS9sZWFybmluZy1ha2thL2NoNS9ha2thZGVtYWlkLXNjYWxhL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
